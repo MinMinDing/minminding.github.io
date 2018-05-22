@@ -3,6 +3,48 @@
   
     
     <entry>
+      <title>ThinkPad-E440-MacOS-EFI</title>
+      <link href="/2018/05/22/ThinkPad-E440-MacOS-EFI/"/>
+      <url>/2018/05/22/ThinkPad-E440-MacOS-EFI/</url>
+      <content type="html"><![CDATA[<h1 id="ThinkPad-E440-安装个人心目中的完美黑苹果"><a href="#ThinkPad-E440-安装个人心目中的完美黑苹果" class="headerlink" title="ThinkPad E440 安装个人心目中的完美黑苹果"></a>ThinkPad E440 安装个人心目中的完美黑苹果</h1><p><strong>我是工作分配的电脑配置有些烂，个人把自己笔记本的8g内存条插在上面，装黑苹果纯粹为了好看，用起来还是不错的</strong><br><a id="more"></a></p><p>##我的配置</p><ul><li>CPU  i3-4000M</li><li>核显  HD4600</li><li>独显  未知的独显，但是有的估计是610</li><li>内存  DDR3 8G(自己加的，原来是4G)</li><li>硬盘  机械硬盘5400RPM(噪音贼大)</li><li>屏幕  1366*768</li></ul><p><strong>我的配置不算好，屏幕也差，因为装了Win10特别卡，可能因为Win10读写硬盘太多，所以太卡，装了Linux发现非常流畅，但是太丑了，不适应，尤其是装了黑苹果之后越发严重,所以有需求的哥们可以来看看我的EFI</strong></p><ul><li>首先第一步下载黑果小兵的Mac镜像（10.13.3）里面附带clover</li><li><p>然后将镜像用TransMac写入U盘，再将U盘的隐藏EFI分区挂载上</p><blockquote><p>diskpart</p><p>list disk</p><p>select disk 2(你要选的磁盘编号)</p><p>list partition</p><p>select part 1(你要选的分区编号)</p><p>SET ID=ebd0a0a2-b9e5-4433-87c0-68b6b72699c7</p><p>之后重启就可以挂载了</p></blockquote></li><li><p>把我的EFI复制替换到你的EFI分区，之后直接BOIS引导优盘启动。</p></li><li>这样就可以直接使用，我的DSDT已经配置好电量显示和屏幕亮度调节了</li><li>黑苹果好像可以直接升级，想用优盘可以直接把优盘格式成FAT32就可以使用了<h3 id="第一次写的不好，就当是记录了"><a href="#第一次写的不好，就当是记录了" class="headerlink" title="第一次写的不好，就当是记录了"></a>第一次写的不好，就当是记录了</h3><h3 id="地址在我的GitHub"><a href="#地址在我的GitHub" class="headerlink" title="地址在我的GitHub"></a>地址在我的<a href="https://github.com/MinMinDing/ThinkPad-E440-MacOS-EFI" target="_blank" rel="noopener">GitHub</a></h3></li></ul>]]></content>
+      
+      <categories>
+          
+          <category> 黑苹果EFI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 黑苹果 安装 步骤 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Java笔记</title>
+      <link href="/2018/05/20/Java%E7%AC%94%E8%AE%B0/"/>
+      <url>/2018/05/20/Java%E7%AC%94%E8%AE%B0/</url>
+      <content type="html"><![CDATA[<p>记录一些日常学习Java的笔记<br><a id="more"></a></p><h1 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h1><h2 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h2><p>使用数组的四步骤  </p><ol><li><p>声明数组</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">int [] a;<br></code></pre></td></tr></table></figure></li><li><p>分配空间</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">a = new int[5];<br></code></pre></td></tr></table></figure></li><li><p>赋数组值</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">a[0] = 8;<br></code></pre></td></tr></table></figure></li><li><p>处理数据</p><figure class="highlight lsl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs undefined">a[<span class="hljs-number">0</span>] = a[<span class="hljs-number">0</span>]*<span class="hljs-number">10</span>;<br></code></pre></td></tr></table></figure></li></ol><p>常用的数组方法<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">float</span> boy[] = new <span class="hljs-built_in">float</span>[4];//这是一维数组<br>int mytwo [][] = new int[3][4]; //这是二维数组<br></code></pre></td></tr></table></figure></p>]]></content>
+      
+      <categories>
+          
+          <category> 学习Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>第一篇小记</title>
       <link href="/2018/05/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B0%8F%E8%AE%B0/"/>
       <url>/2018/05/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B0%8F%E8%AE%B0/</url>

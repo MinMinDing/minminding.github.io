@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -46,7 +45,7 @@
     
     
 <link rel="stylesheet" type="text/css" href="/css/page.css">
-<link rel="stylesheet" type="text/css" href="/css/tags.css">
+<link rel="stylesheet" type="text/css" href="/css/post.css">
 
     <link rel="stylesheet" type="text/css" href="/css/custom.css">
     <link rel="stylesheet" type="text/css" href="/css/atom-one-dark.css">
@@ -81,7 +80,7 @@
     <script defer type="text/javascript" src="/js/index.js"></script>
     
     <script defer type="text/javascript" src="/js/custom.js"></script>
-    <title>标签 | MinMinDing - 一些生活记录</title>
+    <title>ThinkPad-E440-MacOS-EFI | MinMinDing - 一些生活记录</title>
   </head>
   <body itemscope itemtype="http://schema.org/WebPage" lang="zh_CN"  data-spy="scroll" data-target=".list-group">
     
@@ -107,7 +106,7 @@
     
     <li><a href="/categories/">分类</a></li>
     
-    <li><a href="/tags/" class="current">标签</a></li>
+    <li><a href="/tags/">标签</a></li>
     
   </ul>
 </nav>
@@ -122,25 +121,125 @@
         <div class="main-container">
           <div class="content">
             
-<section class="tags" id="tags">
-  <article class="page-article card">
-    <header class="page-header">
-      <h1 class="page-title" itemprop="name headline">标签</h1>
-    </header>
-    <main class="page-main">
-      <div class="tags-container">
-        <h2 class="tags-counter">
+<section id="post" class="post">
+  
+  <article class="post-container card" itemscope itemtype="http://schema.org/Article">
+    <div class="post-block">
+      <link itemprop="mainEntityOfPage" href="https://minminding.github.io/2018/05/22/ThinkPad-E440-MacOS-EFI/">
+      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+       <meta itemprop="name" content="MinMinDing">
+       <meta itemprop="description" content="个人博客">
+       <meta itemprop="image" content="/images/avatar.png">
+      </span>
+      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+       <meta itemprop="name" content="MinMinDing">
+      </span>
+    </div>
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+       <span class="">ThinkPad-E440-MacOS-EFI</span>
+      </h1>
+      <div class="post-meta">
+        
+        <span class="post-date">
+          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2018-05-22T10:32:01+08:00">2018-05-22 10:32:01</time></span>
+        </span>
+        
+        
+        
+        <span class="post-meta-divider divider">|</span>
+        
+        <span class="post-categories">
           
-          你已经创建了 3 个标签！
-          
-        </h2>
-        <div class="tags-cloud">
-          <a href="/tags/Java/" style="font-size: 16px; color: #777">Java</a> <a href="/tags/随笔想/" style="font-size: 16px; color: #777">随笔想</a> <a href="/tags/黑苹果-安装-步骤/" style="font-size: 16px; color: #777">黑苹果 安装 步骤</a>
-        </div>
+          <i class="far fa-folder-open"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/黑苹果EFI/" itemprop="url" rel="index"><span itemprop="name">黑苹果EFI</span></a></span>
+        </span>
+        
+        
       </div>
+    </header>
+    <main class="post-body" itemprop="articleBody">
+      <h1 id="ThinkPad-E440-安装个人心目中的完美黑苹果"><a href="#ThinkPad-E440-安装个人心目中的完美黑苹果" class="headerlink" title="ThinkPad E440 安装个人心目中的完美黑苹果"></a>ThinkPad E440 安装个人心目中的完美黑苹果</h1><p><strong>我是工作分配的电脑配置有些烂，个人把自己笔记本的8g内存条插在上面，装黑苹果纯粹为了好看，用起来还是不错的</strong><br><a id="more"></a></p>
+<p>##我的配置</p>
+<ul>
+<li>CPU  i3-4000M</li>
+<li>核显  HD4600</li>
+<li>独显  未知的独显，但是有的估计是610</li>
+<li>内存  DDR3 8G(自己加的，原来是4G)</li>
+<li>硬盘  机械硬盘5400RPM(噪音贼大)</li>
+<li>屏幕  1366*768</li>
+</ul>
+<p><strong>我的配置不算好，屏幕也差，因为装了Win10特别卡，可能因为Win10读写硬盘太多，所以太卡，装了Linux发现非常流畅，但是太丑了，不适应，尤其是装了黑苹果之后越发严重,所以有需求的哥们可以来看看我的EFI</strong></p>
+<ul>
+<li>首先第一步下载黑果小兵的Mac镜像（10.13.3）里面附带clover</li>
+<li><p>然后将镜像用TransMac写入U盘，再将U盘的隐藏EFI分区挂载上</p>
+<blockquote>
+<p>diskpart</p>
+<p>list disk</p>
+<p>select disk 2(你要选的磁盘编号)</p>
+<p>list partition</p>
+<p>select part 1(你要选的分区编号)</p>
+<p>SET ID=ebd0a0a2-b9e5-4433-87c0-68b6b72699c7</p>
+<p>之后重启就可以挂载了</p>
+</blockquote>
+</li>
+<li><p>把我的EFI复制替换到你的EFI分区，之后直接BOIS引导优盘启动。</p>
+</li>
+<li>这样就可以直接使用，我的DSDT已经配置好电量显示和屏幕亮度调节了</li>
+<li>黑苹果好像可以直接升级，想用优盘可以直接把优盘格式成FAT32就可以使用了<h3 id="第一次写的不好，就当是记录了"><a href="#第一次写的不好，就当是记录了" class="headerlink" title="第一次写的不好，就当是记录了"></a>第一次写的不好，就当是记录了</h3><h3 id="地址在我的GitHub"><a href="#地址在我的GitHub" class="headerlink" title="地址在我的GitHub"></a>地址在我的<a href="https://github.com/MinMinDing/ThinkPad-E440-MacOS-EFI" target="_blank" rel="noopener">GitHub</a></h3></li>
+</ul>
+
     </main>
-    <footer class="page-footer"></footer>
+    <footer class="post-footer">
+      
+      
+      <div class="post-tags">
+        
+        
+        
+        
+        <a class="post-tag button" href="/tags/黑苹果-安装-步骤/" style="background: #fc6423;" rel="tag"><i class="fas fa-tags"></i>黑苹果 安装 步骤</a>
+        
+      </div>
+      
+    </footer>
   </article>
+  
+  
+<div class="reward" id="reward">
+  <p>一些记录生活点滴</p>
+  <button id="reward-button" class="button" disable="enable">打赏</button>
+  <div id="qr" class="qr" style="display: none;">
+    
+    <div id="wechat">
+      <img id="wechat_qr" src="/images/WeChatPay.png" alt="微信支付"/>
+      <span>微信支付</span>
+    </div>
+    
+    
+    <div id="alipay">
+      <img id="alipay_qr" src="/images/AliPay.png" alt="支付宝"/>
+      <span>支付宝</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+
+  
+  
+  <div class="post-nav">
+    <div class="post-nav-next post-nav-item">
+      
+      <a href="/2018/05/20/Java笔记/" rel="next" title="Java笔记"><i class="fas fa-angle-left"></i><span class="nav-title">Java笔记</span></a>
+      
+    </div>
+    <div class="post-nav-prev post-nav-item">
+      
+    </div>
+  </div>
+  
+  
 </section>
 
           </div>
@@ -198,6 +297,20 @@
 
 
   <div class="sidebar-sticky">
+    
+    
+
+
+
+
+<hr>
+<div class="post-toc sidebar-item" id="toc-div">
+  <div><i class="fas fa-list-ol"></i>文章目录</div>
+  <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#ThinkPad-E440-安装个人心目中的完美黑苹果"><span class="toc-text">ThinkPad E440 安装个人心目中的完美黑苹果</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#第一次写的不好，就当是记录了"><span class="toc-text">第一次写的不好，就当是记录了</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#地址在我的GitHub"><span class="toc-text">地址在我的GitHub</span></a></li></ol></li></ol></li></ol></div>
+</div>
+
+
+
     
     
     
@@ -280,5 +393,3 @@
 
   </body>
 </html>
-
-

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://minminding.github.io/"/>
-  <updated>2018-05-20T08:22:18.000Z</updated>
+  <updated>2018-05-22T02:37:27.000Z</updated>
   <id>https://minminding.github.io/</id>
   
   <author>
@@ -17,11 +17,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ThinkPad-E440-MacOS-EFI</title>
+    <link href="https://minminding.github.io/2018/05/22/ThinkPad-E440-MacOS-EFI/"/>
+    <id>https://minminding.github.io/2018/05/22/ThinkPad-E440-MacOS-EFI/</id>
+    <published>2018-05-22T02:32:01.000Z</published>
+    <updated>2018-05-22T02:37:27.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;ThinkPad-E440-安装个人心目中的完美黑苹果&quot;&gt;&lt;a href=&quot;#ThinkPad-E440-安装个人心目中的完美黑苹果&quot; class=&quot;headerlink&quot; title=&quot;ThinkPad E440 安装个人心目中的完美黑苹果&quot;&gt;&lt;/a&gt;ThinkPad E440 安装个人心目中的完美黑苹果&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;我是工作分配的电脑配置有些烂，个人把自己笔记本的8g内存条插在上面，装黑苹果纯粹为了好看，用起来还是不错的&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="黑苹果EFI" scheme="https://minminding.github.io/categories/%E9%BB%91%E8%8B%B9%E6%9E%9CEFI/"/>
+    
+    
+      <category term="黑苹果 安装 步骤" scheme="https://minminding.github.io/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C-%E5%AE%89%E8%A3%85-%E6%AD%A5%E9%AA%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java笔记</title>
+    <link href="https://minminding.github.io/2018/05/20/Java%E7%AC%94%E8%AE%B0/"/>
+    <id>https://minminding.github.io/2018/05/20/Java笔记/</id>
+    <published>2018-05-20T12:18:44.000Z</published>
+    <updated>2018-05-22T02:38:24.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录一些日常学习Java的笔记&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="学习Java" scheme="https://minminding.github.io/categories/%E5%AD%A6%E4%B9%A0Java/"/>
+    
+    
+      <category term="Java" scheme="https://minminding.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第一篇小记</title>
     <link href="https://minminding.github.io/2018/05/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B0%8F%E8%AE%B0/"/>
     <id>https://minminding.github.io/2018/05/20/第一篇小记/</id>
     <published>2018-05-19T16:00:00.000Z</published>
-    <updated>2018-05-20T08:22:18.000Z</updated>
+    <updated>2018-05-20T12:22:33.000Z</updated>
     
     <summary type="html">
     
