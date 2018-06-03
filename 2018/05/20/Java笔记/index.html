@@ -159,7 +159,8 @@
     </header>
     <main class="post-body" itemprop="articleBody">
       <p>记录一些日常学习Java的笔记<br><a id="more"></a></p>
-<h1 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h1><h2 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h2><p>使用数组的四步骤  </p>
+<h1 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h1><p>==============</p>
+<h2 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h2><p>使用数组的四步骤  </p>
 <ol>
 <li><p>声明数组</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">int [] a;<br></code></pre></td></tr></table></figure>
@@ -175,6 +176,19 @@
 </li>
 </ol>
 <p>常用的数组方法<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">float</span> boy[] = new <span class="hljs-built_in">float</span>[4];	//这是一维数组<br>int mytwo [][] = new int[3][4]; //这是二维数组<br></code></pre></td></tr></table></figure></p>
+<h2 id="void使用在没有返回类型的函数中"><a href="#void使用在没有返回类型的函数中" class="headerlink" title="void使用在没有返回类型的函数中"></a>void使用在没有返回类型的函数中</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">public static void <span class="hljs-function"><span class="hljs-title">sum</span></span>()&#123;&#125;<br></code></pre></td></tr></table></figure>
+<h2 id="本地变量的规则"><a href="#本地变量的规则" class="headerlink" title="本地变量的规则"></a>本地变量的规则</h2><ul>
+<li><p>本地变量是定义在块内的</p>
+<pre><code>它可以是定义在函数的块内
+也可以定义在语句的内块
+甚至可以随便拉一对大括号来定义变量
+</code></pre></li>
+<li>程运行进入这个块之前，其中的变量不存在，离开这个块，其中的变量消失了</li>
+<li>块外面定义的变量在里面仍然有效</li>
+<li>不能在一个块内定义同名的变量，也不能定义块外面定义过的变量</li>
+<li>本地变量不会被默认初始化</li>
+<li>参数在进入函数的时候被初始化了</li>
+</ul>
 
     </main>
     <footer class="post-footer">
@@ -256,7 +270,7 @@
     
     <div class="archives-count">
       <div class="site-count-title">归档</div>
-      <div><a href="/archives/">3</a></div>
+      <div><a href="/archives/">7</a></div>
     </div>
     
     
@@ -265,7 +279,7 @@
     
     <div class="categories-count">
       <div class="site-count-title">分类</div>
-      <div><a href="/categories/">3</a></div>
+      <div><a href="/categories/">7</a></div>
     </div>
     
     
@@ -274,7 +288,7 @@
     
     <div class="tags-count">
       <div class="site-count-title">标签</div>
-      <div><a href="/tags/">3</a></div>
+      <div><a href="/tags/">6</a></div>
     </div>
     
   </div>
@@ -296,7 +310,7 @@
 <hr>
 <div class="post-toc sidebar-item" id="toc-div">
   <div><i class="fas fa-list-ol"></i>文章目录</div>
-  <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#Java"><span class="toc-text">Java</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#数组"><span class="toc-text">数组</span></a></li></ol></li></ol></div>
+  <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#Java"><span class="toc-text">Java</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#数组"><span class="toc-text">数组</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#void使用在没有返回类型的函数中"><span class="toc-text">void使用在没有返回类型的函数中</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#本地变量的规则"><span class="toc-text">本地变量的规则</span></a></li></ol></li></ol></div>
 </div>
 
 

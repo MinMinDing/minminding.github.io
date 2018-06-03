@@ -3,6 +3,90 @@
   
     
     <entry>
+      <title>体能动作形象演示</title>
+      <link href="/2018/06/03/%E4%BD%93%E8%83%BD%E5%8A%A8%E4%BD%9C%E5%BD%A2%E8%B1%A1%E6%BC%94%E7%A4%BA/"/>
+      <url>/2018/06/03/%E4%BD%93%E8%83%BD%E5%8A%A8%E4%BD%9C%E5%BD%A2%E8%B1%A1%E6%BC%94%E7%A4%BA/</url>
+      <content type="html"><![CDATA[<p>来自日本幼儿园的运动会表演项目<br><a id="more"></a></p><h1 id="动作详细解释"><a href="#动作详细解释" class="headerlink" title="动作详细解释"></a>动作详细解释</h1><hr><ul><li><p>风帆</p><pre><code>1.侧身单手撑地 2.腰起来，伸直另一只手臂</code></pre></li><li><p>滑梯</p><pre><code>1.坐在地上手撑地，腿脚绷直 2.腰起来，头向后仰</code></pre></li><li><p>飞机</p><pre><code>1.坐在地上保持双脚不落地，双手抱住自己 2.双手打开</code></pre></li><li><p>拱桥</p><pre><code>1.躺在地上，腿和手臂弯曲撑在地面上 2.将腰撑起</code></pre></li><li><p>超人</p><pre><code>1.趴在地上，头也趴下，双手伸直 2.将腿和手臂、头同时抬起</code></pre></li><li><p>前滚翻</p><pre><code>1.手撑地，屁股尽量抬高 2.向前滚翻</code></pre></li><li><p>上下床（双人）</p><pre><code>1.一人平躺，一人反向趴在身体上 2.同时双臂伸直，上面人身体全部抬起</code></pre></li><li><p>铁塔（三人）</p><pre><code>1.最前面的跪下，第二位站在后面，双手撑在前面人的背上 2.最后的骑在中间人的背上 3.双手伸直</code></pre></li><li><p>风扇（多人）</p><pre><code>1.三人：蹲在地面上三人手拉手，中间的人站立，两侧的做风帆2.四人：中间两个站立相互搂肩，两侧做风帆</code></pre></li><li><p>UFO（多人）</p><pre><code>1.中间的搭肩膀，围成圆，单腿跪地 2.周围的将单腿架到中间人的手臂上，双手撑地3.中间人站起来的同时，周围人将双腿架到手臂上4.所有人将头打开</code></pre></li><li><p>金字塔（多人）</p><pre><code>1.三人并排跪下2.两人站立，手撑在前面人的背上3.最后的站立在背上，双手合十4.双手打开，头抬，所有人趴下，一层一层的退回</code></pre></li><li><p>超人（多人）</p><pre><code>1.一人趴下2.其余人将其抬起，抬头</code></pre></li><li><p>蜈蚣（所有）</p><pre><code>1.排成一条队2.腿分开，双手撑地3.双脚架在后面人的肩膀上，抬头</code></pre></li><li><p>蜈蚣反向</p><pre><code>1.战成两排，女生前，男生后2.第二排单腿跪地互相搂肩3.女生撑地，脚放在男生肩膀上4.男生起立，将女生腿抬起，抬头</code></pre></li><li><p>放松（所有）</p><pre><code>1.所有人排成一排，坐在地上，腿伸直顶到前面人的屁股2.双手伸直向后躺下，一个跟着一个</code></pre></li></ul><h2 id="一些有趣的小游戏"><a href="#一些有趣的小游戏" class="headerlink" title="#一些有趣的小游戏"></a>#一些有趣的小游戏</h2><p>红白两队，所有人站成圆背对圆心，音乐一停，所有人捡起圆中的球扔进中间的收集框里，看哪队伍最快完成。</p><p>红白两队，四人抱一根水管，绕桩转，看哪对先完成。</p><p>Tips：名字写在胸前；不同颜色代表不同的队伍</p>]]></content>
+      
+      <categories>
+          
+          <category> 体能教案 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 体能活动 教案 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Html基础学习</title>
+      <link href="/2018/05/27/Html%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2018/05/27/Html%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</url>
+      <content type="html"><![CDATA[<p>学习HTML笔记<br><a id="more"></a></p><h1 id="常用HTML标记格式"><a href="#常用HTML标记格式" class="headerlink" title="常用HTML标记格式"></a>常用HTML标记格式</h1><hr><h2 id="课程安排"><a href="#课程安排" class="headerlink" title="课程安排"></a>课程安排</h2><ul><li>标题标记</li><li>段落标记</li><li>换行与注释</li><li>粗体与斜体</li><li>删除线与下划线</li><li>上标与下标</li></ul><h2 id="标题标记"><a href="#标题标记" class="headerlink" title="标题标记"></a>标题标记</h2><h3 id="设置正文标题"><a href="#设置正文标题" class="headerlink" title="设置正文标题"></a>设置正文标题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;h<span class="hljs-comment">#&gt;主题文字&lt;/h#&gt;（#代表数字）</span><br></code></pre></td></tr></table></figure><h3 id="段落标记-有空隙"><a href="#段落标记-有空隙" class="headerlink" title="段落标记(有空隙)"></a>段落标记(有空隙)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;p&gt;&lt;/p&gt;<br></code></pre></td></tr></table></figure><h3 id="换行与注释"><a href="#换行与注释" class="headerlink" title="换行与注释"></a>换行与注释</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;br&gt;强制换行，之间没有空隙<br>&lt;!--注释--&gt;<br></code></pre></td></tr></table></figure><h3 id="粗体与斜体"><a href="#粗体与斜体" class="headerlink" title="粗体与斜体"></a>粗体与斜体</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;b&gt;粗体&lt;/b&gt;<br>&lt;i&gt;斜体&lt;/i&gt;<br></code></pre></td></tr></table></figure><h3 id="删除线与下划线"><a href="#删除线与下划线" class="headerlink" title="删除线与下划线"></a>删除线与下划线</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;s&gt;删除线&lt;/s&gt;<br>&lt;u&gt;下划线&lt;/u&gt;<br></code></pre></td></tr></table></figure><h3 id="上标与下标"><a href="#上标与下标" class="headerlink" title="上标与下标"></a>上标与下标</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;sup&gt;上标&lt;/sup&gt;<br>&lt;sub&gt;下标&lt;/sub&gt;<br></code></pre></td></tr></table></figure><h1 id="字体标记"><a href="#字体标记" class="headerlink" title="字体标记"></a>字体标记</h1><p>##课程安排</p><ul><li>设置字体大小</li><li>设置字体颜色</li><li>设置标题字体</li><li>设置物理字体</li><li>设置逻辑字体</li></ul><p>###设置字体大小<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;font size=<span class="hljs-string">"1"</span>&gt;设置字体大小&lt;/font&gt;<br></code></pre></td></tr></table></figure></p><p>###设置字体颜色<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;font color=<span class="hljs-string">"1"</span>&gt;设置字体大小&lt;/font&gt;<br></code></pre></td></tr></table></figure></p><p>###物理字体<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;b&gt;粗体&lt;/b&gt;<br>&lt;i&gt;斜体&lt;/i&gt;<br>&lt;u&gt;下划线&lt;/u&gt;<br>&lt;s&gt;删除线&lt;/s&gt;<br>&lt;tt&gt;打字机字体&lt;/tt&gt;<br>&lt;sup&gt;上标&lt;/sup&gt;<br>&lt;sub&gt;下标&lt;/sub&gt;<br></code></pre></td></tr></table></figure></p><p>###逻辑字体<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;em&gt;强调文字&lt;/em&gt;<br>&lt;strong&gt;字体加重&lt;/strong&gt;<br>&lt;code&gt;显示编程代码&lt;/code&gt;<br>&lt;samp&gt;显示示例文字&lt;/samp&gt;<br>&lt;kbd&gt;显示键盘按键文字&lt;/kbd&gt;<br>&lt;small&gt;缩小文字&lt;/small&gt;<br>&lt;big&gt;放大文字&lt;/big&gt;<br></code></pre></td></tr></table></figure></p><p>#文字布局</p><p>##课程安排</p><ul><li>行的控制</li><li>文字对齐</li><li>段落设置</li><li>列表</li><li>其他方式修饰文本</li></ul><p>###行的控制</p><ul><li>换行控制</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">文字一&lt;p&gt;文字二（单标记是换行作用；双标记是修饰作用）<br>&lt;br&gt;<br></code></pre></td></tr></table></figure><ul><li>不换行控制</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;nobr&gt;不会进行换行&lt;/nobr&gt;<br></code></pre></td></tr></table></figure><p>###文字对齐<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;p align=<span class="hljs-string">"center"</span>&gt;居中对齐&lt;/p&gt;<br>&lt;center&gt;居中对齐&lt;/center&gt;<br></code></pre></td></tr></table></figure></p><p>###段落设置<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;p&gt;段落一&lt;/p&gt;<br>&lt;p&gt;段落二&lt;/p&gt;<br></code></pre></td></tr></table></figure></p><p>###列表</p><ul><li>无序列表</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;ul&gt;<br>&lt;li&gt;表项一&lt;/li&gt;<br>&lt;li&gt;表项二&lt;/li&gt;<br>&lt;li&gt;表项三&lt;/li&gt;<br>&lt;/ul&gt;<br></code></pre></td></tr></table></figure><ul><li>有序列表</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">&lt;ol&gt;<br>&lt;li&gt;表项一&lt;/li&gt;<br>&lt;li&gt;表项二&lt;/li&gt;<br>&lt;li&gt;表项三&lt;/li&gt;<br>&lt;/ol&gt;<br></code></pre></td></tr></table></figure>]]></content>
+      
+      <categories>
+          
+          <category> HTML基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>纪录片</title>
+      <link href="/2018/05/26/%E7%BA%AA%E5%BD%95%E7%89%87/"/>
+      <url>/2018/05/26/%E7%BA%AA%E5%BD%95%E7%89%87/</url>
+      <content type="html"><![CDATA[<a id="more"></a><ul><li>幼儿园（1999年——2003年）：</li></ul><blockquote><p>只知道自己上了两个大班，有两张毕业照片，记得最好的朋友就是隔壁的邻居，那个好看的小女孩胖胖的，很可爱。一直跟我玩着过家家，哈哈哈</p></blockquote><ul><li>小学（时间：2003年9月——2009年6月）：</li></ul><blockquote><p>有趣的小学，感觉丰富精彩，有过欢笑，有过泪，也有过遗憾，回忆年少青春。现在回忆中有些事情特别美好，记得最让我印象深刻的是孙川琳，单春燕，朱国眉，还有难忘的回忆两颗门牙</p></blockquote><ul><li>中学（时间：2009年9月——2012年6月）：</li></ul><blockquote><p>中学里有着我心里的快乐和嘲笑，快乐是自己终于在奋斗努力后有自己想去的地方，让别人羡慕红眼的职业，在这里我还认识了一生很重要的人，或许，命运让我们相遇，被人喜欢，而我却不以为然，最后，在冥冥之中还是和她相遇了，还有我默默喜欢的人。</p></blockquote><ul><li>师范（时间：2012年9月——2017年6月）：</li></ul><blockquote><p>没有目的的重点，我不知道什么是对的，能够感受到自己的努力有许多不同，我该做什么，不该做什么，完全自由，从20岁我知道自己要谈恋爱，我毅然决然开始了之旅，我希望，在毕业前有经历过，不希望留有遗憾，所以什么时间该做什么，但是也在这狂妄自大忘我的时候，犯了一个没有后悔机会的错误，所以我觉得改变，该改变一切所有生活。<br>ß</p></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 个人经历 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>电视电影观后小记自2018年5月26日起</title>
+      <link href="/2018/05/26/%E7%94%B5%E8%A7%86%E7%94%B5%E5%BD%B1%E8%A7%82%E5%90%8E%E5%B0%8F%E8%AE%B0%E8%87%AA2018%E5%B9%B45%E6%9C%8826%E6%97%A5%E8%B5%B7/"/>
+      <url>/2018/05/26/%E7%94%B5%E8%A7%86%E7%94%B5%E5%BD%B1%E8%A7%82%E5%90%8E%E5%B0%8F%E8%AE%B0%E8%87%AA2018%E5%B9%B45%E6%9C%8826%E6%97%A5%E8%B5%B7/</url>
+      <content type="html"><![CDATA[<a id="more"></a><h1 id="电视剧观后感"><a href="#电视剧观后感" class="headerlink" title="#电视剧观后感"></a>#电视剧观后感</h1><h1 id="电影观后感"><a href="#电影观后感" class="headerlink" title="#电影观后感"></a>#电影观后感</h1><p>##</p>]]></content>
+      
+      <categories>
+          
+          <category> 电视电影观后感 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>ThinkPad-E440-MacOS-EFI</title>
       <link href="/2018/05/22/ThinkPad-E440-MacOS-EFI/"/>
       <url>/2018/05/22/ThinkPad-E440-MacOS-EFI/</url>
@@ -27,7 +111,7 @@
       <title>Java笔记</title>
       <link href="/2018/05/20/Java%E7%AC%94%E8%AE%B0/"/>
       <url>/2018/05/20/Java%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<p>记录一些日常学习Java的笔记<br><a id="more"></a></p><h1 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h1><h2 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h2><p>使用数组的四步骤  </p><ol><li><p>声明数组</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">int [] a;<br></code></pre></td></tr></table></figure></li><li><p>分配空间</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">a = new int[5];<br></code></pre></td></tr></table></figure></li><li><p>赋数组值</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">a[0] = 8;<br></code></pre></td></tr></table></figure></li><li><p>处理数据</p><figure class="highlight lsl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs undefined">a[<span class="hljs-number">0</span>] = a[<span class="hljs-number">0</span>]*<span class="hljs-number">10</span>;<br></code></pre></td></tr></table></figure></li></ol><p>常用的数组方法<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">float</span> boy[] = new <span class="hljs-built_in">float</span>[4];//这是一维数组<br>int mytwo [][] = new int[3][4]; //这是二维数组<br></code></pre></td></tr></table></figure></p>]]></content>
+      <content type="html"><![CDATA[<p>记录一些日常学习Java的笔记<br><a id="more"></a></p><h1 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h1><p>==============</p><h2 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h2><p>使用数组的四步骤  </p><ol><li><p>声明数组</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">int [] a;<br></code></pre></td></tr></table></figure></li><li><p>分配空间</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">a = new int[5];<br></code></pre></td></tr></table></figure></li><li><p>赋数组值</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">a[0] = 8;<br></code></pre></td></tr></table></figure></li><li><p>处理数据</p><figure class="highlight lsl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs undefined">a[<span class="hljs-number">0</span>] = a[<span class="hljs-number">0</span>]*<span class="hljs-number">10</span>;<br></code></pre></td></tr></table></figure></li></ol><p>常用的数组方法<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">float</span> boy[] = new <span class="hljs-built_in">float</span>[4];//这是一维数组<br>int mytwo [][] = new int[3][4]; //这是二维数组<br></code></pre></td></tr></table></figure></p><h2 id="void使用在没有返回类型的函数中"><a href="#void使用在没有返回类型的函数中" class="headerlink" title="void使用在没有返回类型的函数中"></a>void使用在没有返回类型的函数中</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">public static void <span class="hljs-function"><span class="hljs-title">sum</span></span>()&#123;&#125;<br></code></pre></td></tr></table></figure><h2 id="本地变量的规则"><a href="#本地变量的规则" class="headerlink" title="本地变量的规则"></a>本地变量的规则</h2><ul><li><p>本地变量是定义在块内的</p><pre><code>它可以是定义在函数的块内也可以定义在语句的内块甚至可以随便拉一对大括号来定义变量</code></pre></li><li>程运行进入这个块之前，其中的变量不存在，离开这个块，其中的变量消失了</li><li>块外面定义的变量在里面仍然有效</li><li>不能在一个块内定义同名的变量，也不能定义块外面定义过的变量</li><li>本地变量不会被默认初始化</li><li>参数在进入函数的时候被初始化了</li></ul>]]></content>
       
       <categories>
           

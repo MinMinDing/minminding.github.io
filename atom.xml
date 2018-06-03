@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://minminding.github.io/"/>
-  <updated>2018-05-22T02:44:47.000Z</updated>
+  <updated>2018-06-03T06:58:20.000Z</updated>
   <id>https://minminding.github.io/</id>
   
   <author>
@@ -15,6 +15,99 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>体能动作形象演示</title>
+    <link href="https://minminding.github.io/2018/06/03/%E4%BD%93%E8%83%BD%E5%8A%A8%E4%BD%9C%E5%BD%A2%E8%B1%A1%E6%BC%94%E7%A4%BA/"/>
+    <id>https://minminding.github.io/2018/06/03/体能动作形象演示/</id>
+    <published>2018-06-03T05:38:50.000Z</published>
+    <updated>2018-06-03T06:58:20.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来自日本幼儿园的运动会表演项目&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="体能教案" scheme="https://minminding.github.io/categories/%E4%BD%93%E8%83%BD%E6%95%99%E6%A1%88/"/>
+    
+    
+      <category term="体能活动 教案" scheme="https://minminding.github.io/tags/%E4%BD%93%E8%83%BD%E6%B4%BB%E5%8A%A8-%E6%95%99%E6%A1%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Html基础学习</title>
+    <link href="https://minminding.github.io/2018/05/27/Html%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://minminding.github.io/2018/05/27/Html基础学习/</id>
+    <published>2018-05-27T13:46:23.000Z</published>
+    <updated>2018-05-29T13:50:20.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;学习HTML笔记&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="HTML基础" scheme="https://minminding.github.io/categories/HTML%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="HTML" scheme="https://minminding.github.io/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纪录片</title>
+    <link href="https://minminding.github.io/2018/05/26/%E7%BA%AA%E5%BD%95%E7%89%87/"/>
+    <id>https://minminding.github.io/2018/05/26/纪录片/</id>
+    <published>2018-05-26T09:11:28.000Z</published>
+    <updated>2018-05-27T10:52:25.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="个人经历" scheme="https://minminding.github.io/categories/%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86/"/>
+    
+    
+      <category term="记录" scheme="https://minminding.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电视电影观后小记自2018年5月26日起</title>
+    <link href="https://minminding.github.io/2018/05/26/%E7%94%B5%E8%A7%86%E7%94%B5%E5%BD%B1%E8%A7%82%E5%90%8E%E5%B0%8F%E8%AE%B0%E8%87%AA2018%E5%B9%B45%E6%9C%8826%E6%97%A5%E8%B5%B7/"/>
+    <id>https://minminding.github.io/2018/05/26/电视电影观后小记自2018年5月26日起/</id>
+    <published>2018-05-26T09:08:59.000Z</published>
+    <updated>2018-05-26T09:23:16.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;电视剧观后感&quot;&gt;&lt;a href=&quot;#电视剧观后感&quot; class=&quot;headerlink&quot; title=&quot;#电视剧观后感&quot;&gt;&lt;/a&gt;#电视剧观后感&lt;/h1&gt;&lt;h1 id=&quot;电影观后感&quot;&gt;&lt;a href=&quot;#电影观后感&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="电视电影观后感" scheme="https://minminding.github.io/categories/%E7%94%B5%E8%A7%86%E7%94%B5%E5%BD%B1%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    
+    
+      <category term="记录" scheme="https://minminding.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>ThinkPad-E440-MacOS-EFI</title>
@@ -41,7 +134,7 @@
     <link href="https://minminding.github.io/2018/05/20/Java%E7%AC%94%E8%AE%B0/"/>
     <id>https://minminding.github.io/2018/05/20/Java笔记/</id>
     <published>2018-05-20T12:18:44.000Z</published>
-    <updated>2018-05-22T02:38:24.000Z</updated>
+    <updated>2018-05-26T07:10:28.000Z</updated>
     
     <summary type="html">
     
